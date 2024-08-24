@@ -3,7 +3,7 @@
 
 int main() {
     int v1[5], v2[5];
-    int i = 0, j = 0;
+    int i = 0, j = 0, enc = 0;
 
     for(i = 0; i < 5; i ++) {
         printf("\nInforme o valor do elemento %d do vetor 1: ", i + 1);
@@ -29,8 +29,12 @@ int main() {
         for (j = 0; j < 5; j++) {
             if(v1[i] == v2[j]) {
                 printf("\n\nValores iguais na posicao: %d e %d\n", i + 1, j + 1);
+                enc = 1;
             }
         }
+    }
+    if(enc == 0) {
+        printf("\n\nNenhum valor igual foi encontrado ao comparar os dois vetores.\n");
     }
     printf("\n\n\n");
     system("pause");
