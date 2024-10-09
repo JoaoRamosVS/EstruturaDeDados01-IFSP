@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1728347789 source:c:\users\aluno\downloads\aula9\atividade1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"my_lib.h"
+
+1728347755 c:\users\aluno\downloads\aula9\atividade1\my_lib.h
+
+1728347802 source:c:\users\aluno\downloads\aula9\atividade1\my_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"my_lib.h"
+
+1728359283 source:c:\users\jvsrd\downloads\atividade1\atividade1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"my_lib.h"
+
+1728359283 c:\users\jvsrd\downloads\atividade1\atividade1\my_lib.h
+
+1728359283 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"my_lib.h"
+
+1728359283 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade1\my_lib.h
+

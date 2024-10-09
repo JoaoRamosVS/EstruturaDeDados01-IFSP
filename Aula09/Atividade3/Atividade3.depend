@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728426474 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
+1728417177 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade3\my_lib.h
+
+1728417168 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade3\my_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+

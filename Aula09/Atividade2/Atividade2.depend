@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1728362062 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PTcart.h"
+
+1728362108 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade2\ptcart.h
+
+1728361702 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula09\atividade2\ptcart.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"PTcart.h"
+
