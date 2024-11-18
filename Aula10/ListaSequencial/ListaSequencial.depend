@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1731906006 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula10\listasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+
+1731905833 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula10\listasequencial\listasequencial.h
+
+1731906408 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula10\listasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSequencial.h"
+
