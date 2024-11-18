@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731930554 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula11\atividadeaula\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1731933152 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula11\atividadeaula\listaligada.h
+
+1731930062 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula11\atividadeaula\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
