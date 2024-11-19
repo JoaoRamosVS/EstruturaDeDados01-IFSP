@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1732020691 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula12\filaestatica\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1732020645 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula12\filaestatica\fila.h
+
+1732020982 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula12\filaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

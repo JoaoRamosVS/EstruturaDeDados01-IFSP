@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732023081 source:c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula12\filadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1732023200 c:\projetos\ifsp\segundosemestre\estruturadedados01-ifsp\aula12\filadinamica\fila.h
+
